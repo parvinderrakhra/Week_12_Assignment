@@ -1,7 +1,8 @@
 # Week_12_Assignment - Tales from the Crypto
 
 ## Sentiment Analysis
-![Sentiment Analysis]https://github.com/parvinderrakhra/Week_12_Assignment/issues/1#issuecomment-1157424853
+![sentimental](https://user-images.githubusercontent.com/85688247/174037973-6bb03b26-6728-4941-acf2-9c133a6fab9f.jpeg)
+
 
 
 ### Process:
